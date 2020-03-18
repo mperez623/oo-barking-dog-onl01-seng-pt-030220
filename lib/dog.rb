@@ -2,6 +2,9 @@ class Dog
   def bark
     puts "woof!"
   end
+  
+  def name 
+    puts "Fido"
 end
 
 fido = Dog.new
