@@ -3,7 +3,7 @@ class Dog
     puts "woof!"
   end
   
-  def 
+  def name
     puts "Fido"
   end
 end
